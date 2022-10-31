@@ -5,7 +5,7 @@
 
 Projeto construído do curso <a href="https://www.origamid.com/">Origamid</a>
 
-<a href="https://rafaluckk.github.io/animais-fantasticos/">Acesse aqui</a>
+<a href="https://rafaluckk.github.io/Slide-Javascript/">Acesse aqui</a>
 
 
 
